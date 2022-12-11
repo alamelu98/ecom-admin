@@ -14,7 +14,7 @@ GET-https://tasty-cyan-dibbler.cyclic.app/login/product
 POST-https://tasty-cyan-dibbler.cyclic.app/login/product
 
 Username:ALDE123
-Password:ALDE@345
+Password:Alde@345
 
 
 2)Product -
